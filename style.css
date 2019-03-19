@@ -19,6 +19,8 @@ body{
     font-weight: bold;
     color: white;
 } */
+
+
 header {
     position: relative;
     height: 300px;
@@ -104,7 +106,7 @@ h1{
     height: 300px;
     float: right;
     padding-left: 175px;
-    border-radius: 10px;
+    border-radius: 100px;
     background: #201c29;
     color: white;
 }
