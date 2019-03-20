@@ -70,10 +70,17 @@ ul {
   }
   
   .active {
-    background-color: #4CAF50;
+    background-color:;
   }
 h1{
     text-align: center;
+}
+h2{
+  margin-right: 75px;
+  margin-bottom: 10px;
+}
+p{
+  margin-left: 10px;
 }
 .fa {
     padding: 5px;
@@ -102,11 +109,11 @@ h1{
 .one{
     border: 2px solid black;
     margin: 10px;
-    width: 200px;
+    width: 240px;
     height: 200px;
     float: right;
     padding-left: 175px;
-    border-radius: 50px;
+    border-radius: 20px;
     background: #201c29;
     color: white;
 }
